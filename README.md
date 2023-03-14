@@ -10,7 +10,7 @@
 * Jetpack components central navigation 
 * and buildSrc for central dependencies management.
 * Offline-Online Support.
-* Offline-Online Support.
+* Potrait-Landscape Support.
 
 
 
