@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Globe</string>
+
+    <string name="check_internet">No internet connection\n\nTry connecting to Wi-Fi or mobile network.\n Right now,App is running on Local DB :) </string>
+    <string name="empty_state_description">No Data currently</string>
+    <string name="please_try_again_in_some_time">Please try again in some time</string>
+    <string name="country_name">Country Name</string>
+    <string name="countryname">CountryName</string>
+    <string name="title_country_details">Country Details</string>
+    <string name="state_name">state</string>
+    <string name="state_code">state code</string>
+
+</resources>
